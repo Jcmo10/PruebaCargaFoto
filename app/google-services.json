@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209966751899",
+    "firebase_url": "https://pruebacargafoto.firebaseio.com",
+    "project_id": "pruebacargafoto",
+    "storage_bucket": "pruebacargafoto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209966751899:android:aa044c68346dbfc6b0a63e",
+        "android_client_info": {
+          "package_name": "com.jcmo.pruebacargafoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209966751899-i8svd5sc072l5vohmm66j65o0kj6t5vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jcmo.pruebacargafoto",
+            "certificate_hash": "1f414bca289e66742401e2b090ed46ca6b64dbc7"
+          }
+        },
+        {
+          "client_id": "209966751899-g1erfcug6fk0e093kl4se4r625giteru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLn50cnBKaKbIaFrbSQaSBYH-4kX0Rrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209966751899-g1erfcug6fk0e093kl4se4r625giteru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
